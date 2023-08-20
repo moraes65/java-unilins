@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/joaoluiscmoraes/Dropbox/unilins/Automação Comercial 202.044/2023/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+2909488696.index
+878843778.index
